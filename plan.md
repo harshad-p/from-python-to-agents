@@ -16,6 +16,64 @@ That is much closer to **AI Engineer / FDE** than simply knowing Python.
 
 ---
 
+# Part 0 — Setup & First Steps
+
+## 0.1 Python Development Environment
+
+- What Python is and how it runs
+- Installing Python on macOS using Homebrew
+- Checking the Python installation
+- `python3` and `pip3`
+- Python versions
+- Choosing the Python version for this curriculum
+- Understanding the Python interpreter
+
+## 0.2 Your First Python Program
+
+- Creating a project folder
+- Creating a `.py` file
+- Writing the simplest Python program
+- Running a Python file from the terminal
+- Running Python interactively
+- Understanding what happens when a `.py` file runs
+
+## 0.3 Your First Python Project
+
+- Creating a proper project directory
+- Creating a virtual environment
+- Activating and deactivating the environment
+- Understanding why virtual environments exist
+- Installing a package with `pip`
+- Running code inside the virtual environment
+- Understanding the difference between system Python and project Python
+
+## 0.4 Development Tools
+
+- VS Code setup for Python
+- Python extension
+- Selecting the correct interpreter
+- Running and debugging Python
+- Basic terminal workflow
+- Git initialization
+- `.gitignore`
+- `README.md`
+
+## 0.5 First Project Checkpoint
+
+Build and run a tiny Python project from scratch.
+
+You should be able to:
+
+- Install Python
+- Check the Python version
+- Create a project directory
+- Create and run a `.py` file
+- Create and activate a virtual environment
+- Install a package
+- Run the project using the virtual environment
+- Explain why the virtual environment exists
+- Commit the project to Git
+
 # Part 1 — Python Fundamentals
 
 **Goal:** Become comfortable reading and writing Python without constantly translating everything mentally from C#.
